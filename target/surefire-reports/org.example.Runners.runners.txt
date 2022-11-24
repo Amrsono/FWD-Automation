@@ -1,0 +1,13 @@
+-------------------------------------------------------------------------------
+Test set: org.example.Runners.runners
+-------------------------------------------------------------------------------
+Tests run: 18, Failures: 3, Errors: 0, Skipped: 0, Time elapsed: 393.091 s <<< FAILURE! - in org.example.Runners.runners
+org.example.Runners.runners.runScenario  Time elapsed: 14.678 s  <<< FAILURE!
+java.lang.AssertionError: expected [https://demo.nopcommerce.com/nokia-lumia-1020] but found [https://demo.nopcommerce.com/]
+
+org.example.Runners.runners.runScenario  Time elapsed: 15.318 s  <<< FAILURE!
+java.lang.AssertionError: expected [ https://demo.nopcommerce.com/iphone-6] but found [https://demo.nopcommerce.com/]
+
+org.example.Runners.runners.runScenario  Time elapsed: 19.7 s  <<< FAILURE!
+java.lang.AssertionError: expected [https://demo.nopcommerce.com/new-online-store-is-open] but found [https://demo.nopcommerce.com/news/rss/1]
+
